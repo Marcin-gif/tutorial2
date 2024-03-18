@@ -1,0 +1,11 @@
+{
+  "item.tutorialmod.haber": "haber",
+  "item.tutorialmod.haber_wapon": "Habero Wapono",
+
+  "block.tutorialmod.haber_block": "Block of Haber",
+  "block.tutorialmod.raw_haber_block": "Block of Raw Haber",
+
+  "item.tutorialmod.haber_food": "Meal from Haber",
+  "tooltip.tutorialmod.habero_wapono.tooltip": "Finds valuable underground",
+  "creativetab.tutorial_tab": "Haber Tutorial Tab"
+}
