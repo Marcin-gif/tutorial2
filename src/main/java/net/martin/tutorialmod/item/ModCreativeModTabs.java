@@ -26,7 +26,15 @@ public class ModCreativeModTabs {
                         pOutput.accept(Items.DIAMOND);
                         pOutput.accept(ModBlocks.RAW_HABER_BLOCK.get());
                         pOutput.accept(ModBlocks.HABER_BLOCK.get());
-                        pOutput.accept(ModBlocks.HABER_ORE.get());
+                        pOutput.accept(ModBlocks.HABER_STAIRS.get());
+                        pOutput.accept(ModBlocks.HABER_BUTTON.get());
+                        pOutput.accept(ModBlocks.HABER_WALL.get());
+                        pOutput.accept(ModBlocks.HABER_SLAB.get());
+                        pOutput.accept(ModBlocks.HABER_FENCE_GATE.get());
+                        pOutput.accept(ModBlocks.HABER_FENCE.get());
+                        
+                        pOutput.accept(ModBlocks.HABER_PRESSURE_PLATE.get());
+                        //pOutput.accept(ModBlocks.HABER_ORE.get());
                         pOutput.accept(ModItems.HABER_FOOD.get());
                         pOutput.accept(ModItems.PINE_CONE.get());
                         /*pOutput.accept(ModBlocks.DEEPSLATE_HABER_ORE.get());

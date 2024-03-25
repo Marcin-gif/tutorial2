@@ -7,5 +7,24 @@
 
   "item.tutorialmod.haber_food": "Meal from Haber",
   "tooltip.tutorialmod.habero_wapono.tooltip": "Finds valuable underground",
+
+  "block.tutorialmod.haber_block_stairs": "haber stairs",
+
+  "block.tutorialmod.haber_slab": "haber slab",
+
+  "block.tutorialmod.haber_button": "haber button",
+
+  "block.tutorialmod.haber_pressure_plate": "haber pressure plate",
+
+  "block.tutorialmod.haber_fence": "haber fence",
+
+  "block.tutorialmod.haber_fence_gate": "haber fence gate",
+
+  "block.tutorialmod.haber_wall": "haber wall",
+
+  "block.tutorialmod.haber_door": "haber door",
+
+  "block.tutorialmod.haber_trap_door": "haber trap door",
+
   "creativetab.tutorial_tab": "Haber Tutorial Tab"
 }
