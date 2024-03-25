@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmod:haber"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:stick"
+  }
+}

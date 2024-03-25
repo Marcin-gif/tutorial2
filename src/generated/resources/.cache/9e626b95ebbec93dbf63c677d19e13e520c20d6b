@@ -1,0 +1,5 @@
+// 1.20.1	2024-03-19T00:59:22.843172	Tags for minecraft:block mod id tutorialmod
+77a4fd34326e51c965eace8056809ada94d990c1 data/minecraft/tags/blocks/mineable/pickaxe.json
+1f3a9d434c19ae40aa382046168b753698c62c71 data/minecraft/tags/blocks/needs_diamond_tool.json
+0beb6539cb75bf77b3f43c5128e3ed3a2209e8bc data/minecraft/tags/blocks/needs_iron_tool.json
+72660a0c69b86eebbcab8e9f93fc1e9a14c9eb41 data/tutorialmod/tags/blocks/habero_wapono_detector.json
